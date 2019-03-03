@@ -10,8 +10,7 @@ datum - tijd - dag van de week - vrije parkeerplaatsen - open/gesloten - naam
 ## Parkeergarages
 De volgende P+R locaties zijn opgenomen:
 | Garage                      | identifier                           |
-|-----------------------------|--------------------------------------|
-
+|---|---|
 | P41 - P+R Capelsebrug       | 1b890d72-9ea4-43d3-9f72-ea66889bb4f1 |
 | P301 - P+R Slinge bovendek  | 26b41495-1c1d-46e3-8988-eba02cf85fa8 |
 | P34 - P+R_Meijersplein      | 328cbed1-dfe1-4984-8cf6-4b4d9671b168 |
