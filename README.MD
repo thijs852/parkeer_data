@@ -5,7 +5,9 @@ In deze repository staan verzamelde gegevens van verschillende P+R locaties in R
 ## Header
 
 Gebruik de volgende header:
-datum - tijd - dag van de week - vrije parkeerplaatsen - open/gesloten - naam
+datum - tijd - dag van de week - vrije parkeerplaatsen - open/gesloten - naam - capaciteit*
+
+*Alleen beschikbaar na 05-03-2020
 
 ## Parkeergarages
 De volgende P+R locaties zijn opgenomen:
